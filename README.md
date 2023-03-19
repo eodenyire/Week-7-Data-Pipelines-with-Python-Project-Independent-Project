@@ -29,3 +29,5 @@ Monitor the data pipeline to ensure that it runs smoothly and that there are no 
 By following these guidelines, you will be able to build an efficient and reliable data pipeline that can extract the billing data from multiple sources, transform it into a structured format, and load it into a database or a file for analysis and revenue reporting.
 
 The GitHub repository for this project will contain a Python file or Jupyter notebook with the code for building the data pipeline. The repository will also include a README file with the project description, instructions on how to run the code, and any additional information related to the project.
+
+Please find the colab notebook: https://colab.research.google.com/drive/11BZyxYNQFJR8_DWB6uGrckjNUs1n_FCB?usp=sharing
